@@ -1,4 +1,4 @@
 base:
   '*':
     - docker
-    - chat
+    - docker.containers
